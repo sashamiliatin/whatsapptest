@@ -1,0 +1,22 @@
+2021/11/09-10:56:41.193 37891 Reusing MANIFEST ./myUserDataDir/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/09-10:56:41.193 37891 Recovering log #6
+2021/11/09-10:56:41.223 37891 Reusing old log ./myUserDataDir/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000006.log 
+2021/11/09-10:57:29.653 34059 Level-0 table #14: started
+2021/11/09-10:57:29.679 34059 Level-0 table #14: 1278268 bytes OK
+2021/11/09-10:57:29.679 34059 Delete type=0 #6
+2021/11/09-10:57:34.945 34059 Compacting 1@1 + 4@2 files
+2021/11/09-10:57:34.983 34059 Generated table #15@1: 19415 keys, 2192724 bytes
+2021/11/09-10:57:35.005 34059 Generated table #16@1: 2519 keys, 2146424 bytes
+2021/11/09-10:57:35.047 34059 Generated table #17@1: 15934 keys, 2206441 bytes
+2021/11/09-10:57:35.098 34059 Generated table #18@1: 59787 keys, 2237475 bytes
+2021/11/09-10:57:35.101 34059 Generated table #19@1: 3208 keys, 73270 bytes
+2021/11/09-10:57:35.101 34059 Compacted 1@1 + 4@2 files => 8856334 bytes
+2021/11/09-10:57:35.101 34059 compacted to: files[ 0 0 5 0 0 0 0 ]
+2021/11/09-10:57:35.101 34059 Delete type=2 #14
+2021/11/09-10:57:35.101 34059 Delete type=2 #10
+2021/11/09-10:57:35.101 34059 Delete type=2 #11
+2021/11/09-10:57:35.101 34059 Delete type=2 #8
+2021/11/09-10:57:35.102 34059 Delete type=2 #9
+2021/11/09-10:57:38.082 34059 Level-0 table #21: started
+2021/11/09-10:57:38.147 34059 Level-0 table #21: 5673796 bytes OK
+2021/11/09-10:57:38.148 34059 Delete type=0 #13

@@ -1,0 +1,5 @@
+2021/11/09-10:55:49.490 28163 Reusing MANIFEST /Users/alexandr.miliatian/Desktop/Exercises/orProject/myUserDataDir/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/09-10:55:49.490 28163 Recovering log #6
+2021/11/09-10:55:49.515 28163 Reusing old log /Users/alexandr.miliatian/Desktop/Exercises/orProject/myUserDataDir/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000006.log 
+2021/11/09-10:55:49.515 28163 Delete type=2 #7
+2021/11/09-10:55:49.516 28163 Delete type=2 #5
