@@ -48,4 +48,4 @@ jobs:
     #    user: __token__
     #    password: ${{ secrets.PYPI_API_TOKEN }}
     - name: Run whatsapp test
-      run: main.py
+      run: python main.py
